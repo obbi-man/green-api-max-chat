@@ -1,5 +1,7 @@
 # MAX-чат на GREEN-API
 
+**Живое демо:** https://obbi-man.github.io/green-api-max-chat/ (кнопка «Демо-режим (без аккаунта)»)
+
 Простой веб-интерфейс (React + TypeScript + Vite) для отправки и получения текстовых сообщений в мессенджере MAX через [GREEN-API](https://green-api.com/max). Внешний вид по мотивам https://web.max.ru/.
 
 ## Возможности
